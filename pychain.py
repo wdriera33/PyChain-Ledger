@@ -177,11 +177,11 @@ pychain = setup()
 # 
 # # @TODO:
 # Add an input area where you can get a value for `sender` from the user.
-sender = st.text_input("Sender Info")
+sender = st.text_input("Sender")
 
 # @TODO:
 # Add an input area where you can get a value for `receiver` from the user.
-receiver = st.text_input("Receiver Info")
+receiver = st.text_input("Receiver")
 
 # @TODO:
 # Add an input area where you can get a value for `amount` from the user.
